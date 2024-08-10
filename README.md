@@ -1,5 +1,4 @@
-# PRODIGY_CS_02
-## Pixel Manipulation for Image Encryption
+# Pixel Manipulation for Image Encryption
 - A Python implementation for altering images by manipulating their pixels
 - Supports both encryption and decryption
 - The current implementation only supports PNG and JPG/JPEG images
